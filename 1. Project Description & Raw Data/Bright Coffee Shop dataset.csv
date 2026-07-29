@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,year,month,month_name,day,day_name,transaction_time,hour,time_of_day,transaction_qty,store_id,store_location,product_id,product_category,product_type,product_detail,unit_price,revenue,Day_classification
+1,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:06:11.000Z,7,Morning,2,5,Lower Manhattan,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,6,Weekend
+2,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:08:56.000Z,7,Morning,2,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,6.2,Weekend
+3,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:14:04.000Z,7,Morning,2,5,Lower Manhattan,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,9,Weekend
+4,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:20:24.000Z,7,Morning,1,5,Lower Manhattan,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,Weekend
+5,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:22:41.000Z,7,Morning,2,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,6.2,Weekend
+6,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:22:41.000Z,7,Morning,1,5,Lower Manhattan,77,Bakery,Scone,Oatmeal Scone,3,3,Weekend
+7,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:25:49.000Z,7,Morning,1,5,Lower Manhattan,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,Weekend
+8,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:33:34.000Z,7,Morning,2,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,4,Weekend
+9,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:39:13.000Z,7,Morning,1,5,Lower Manhattan,39,Coffee,Barista Espresso,Latte Rg,4.25,4.25,Weekend
+10,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:39:34.000Z,7,Morning,2,5,Lower Manhattan,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,7,Weekend
+11,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:43:05.000Z,7,Morning,1,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,2.55,Weekend
+12,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:44:35.000Z,7,Morning,2,5,Lower Manhattan,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,7,Weekend
+13,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:45:51.000Z,7,Morning,1,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,3,3,Weekend
+14,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:48:19.000Z,7,Morning,1,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,3.1,Weekend
+15,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:52:36.000Z,7,Morning,2,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,3,6,Weekend
+16,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:59:58.000Z,7,Morning,2,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,6,Weekend
+17,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T07:59:58.000Z,7,Morning,1,5,Lower Manhattan,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekend
+18,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:00:18.000Z,8,Morning,1,8,Hell's Kitchen,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,2.5,Weekend
+19,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:00:39.000Z,8,Morning,2,8,Hell's Kitchen,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,9,Weekend
+20,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:11:45.000Z,8,Morning,1,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,4.75,Weekend
+21,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:17:27.000Z,8,Morning,2,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,7,Weekend
+22,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:24:26.000Z,8,Morning,2,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,5.1,Weekend
+23,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:24:26.000Z,8,Morning,1,5,Lower Manhattan,69,Bakery,Biscotti,Hazelnut Biscotti,3.25,3.25,Weekend
+24,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:29:38.000Z,8,Morning,1,8,Hell's Kitchen,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,2.55,Weekend
+25,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:31:23.000Z,8,Morning,1,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,3.75,3.75,Weekend
+26,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:33:08.000Z,8,Morning,1,5,Lower Manhattan,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,3,Weekend
+27,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:33:08.000Z,8,Morning,1,5,Lower Manhattan,76,Bakery,Biscotti,Chocolate Chip Biscotti,3.5,3.5,Weekend
+28,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:35:03.000Z,8,Morning,2,5,Lower Manhattan,45,Tea,Brewed herbal tea,Peppermint Lg,3,6,Weekend
+29,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:35:03.000Z,8,Morning,1,5,Lower Manhattan,71,Bakery,Pastry,Chocolate Croissant,3.75,3.75,Weekend
+30,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:41:57.000Z,8,Morning,2,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,3.75,7.5,Weekend
+31,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:52:03.000Z,8,Morning,1,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,3.75,3.75,Weekend
+32,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:52:32.000Z,8,Morning,1,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,3,3,Weekend
+33,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:54:33.000Z,8,Morning,2,5,Lower Manhattan,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,7,Weekend
+34,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:56:27.000Z,8,Morning,2,5,Lower Manhattan,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,5,Weekend
+35,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:57:46.000Z,8,Morning,1,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,2.5,Weekend
+36,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T08:58:55.000Z,8,Morning,1,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,3,3,Weekend
+37,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:00:12.000Z,9,Morning,1,5,Lower Manhattan,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekend
+38,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:00:24.000Z,9,Morning,2,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,3.75,7.5,Weekend
+39,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:07:13.000Z,9,Morning,1,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,3,3,Weekend
+40,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:08:09.000Z,9,Morning,2,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,3,6,Weekend
+41,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:08:13.000Z,9,Morning,1,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekend
+42,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:10:30.000Z,9,Morning,2,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,7.5,Weekend
+43,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:10:30.000Z,9,Morning,1,5,Lower Manhattan,78,Bakery,Scone,Scottish Cream Scone ,4.5,4.5,Weekend
+44,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:11:06.000Z,9,Morning,1,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,2.55,Weekend
+45,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:11:06.000Z,9,Morning,1,5,Lower Manhattan,77,Bakery,Scone,Oatmeal Scone,3,3,Weekend
+46,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:13:01.000Z,9,Morning,1,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,2.5,Weekend
+47,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:13:15.000Z,9,Morning,2,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,5.1,Weekend
+48,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:14:16.000Z,9,Morning,1,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekend
+49,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:14:17.000Z,9,Morning,1,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekend
+50,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:14:25.000Z,9,Morning,1,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,2.5,Weekend
+51,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:14:41.000Z,9,Morning,1,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,3,Weekend
+52,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:15:09.000Z,9,Morning,2,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,6,Weekend
+53,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:15:13.000Z,9,Morning,2,5,Lower Manhattan,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,6,Weekend
+54,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:19:21.000Z,9,Morning,2,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekend
+55,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:19:26.000Z,9,Morning,1,8,Hell's Kitchen,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,4.5,Weekend
+56,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:21:08.000Z,9,Morning,1,5,Lower Manhattan,38,Coffee,Barista Espresso,Latte,3.75,3.75,Weekend
+57,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:22:17.000Z,9,Morning,1,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,3,3,Weekend
+58,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:22:46.000Z,9,Morning,1,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,2.45,Weekend
+59,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:29:56.000Z,9,Morning,2,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,7.5,Weekend
+60,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:29:56.000Z,9,Morning,1,8,Hell's Kitchen,74,Bakery,Biscotti,Ginger Biscotti,3.5,3.5,Weekend
+61,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:29:57.000Z,9,Morning,1,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,3,Weekend
+62,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:34:17.000Z,9,Morning,2,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,8.5,Weekend
+63,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:40:13.000Z,9,Morning,1,5,Lower Manhattan,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,4.25,Weekend
+64,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:41:22.000Z,9,Morning,2,5,Lower Manhattan,45,Tea,Brewed herbal tea,Peppermint Lg,3,6,Weekend
+65,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:41:22.000Z,9,Morning,1,5,Lower Manhattan,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekend
+66,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:44:20.000Z,9,Morning,2,5,Lower Manhattan,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekend
+67,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:44:46.000Z,9,Morning,1,5,Lower Manhattan,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekend
+68,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:46:46.000Z,9,Morning,2,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,3,6,Weekend
+69,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:47:40.000Z,9,Morning,2,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,3.75,7.5,Weekend
+70,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:50:44.000Z,9,Morning,2,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,3,6,Weekend
+71,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:50:44.000Z,9,Morning,1,5,Lower Manhattan,69,Bakery,Biscotti,Hazelnut Biscotti,3.25,3.25,Weekend
+72,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:52:58.000Z,9,Morning,1,5,Lower Manhattan,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,2.5,Weekend
+73,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:53:28.000Z,9,Morning,1,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,3,Weekend
+74,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:53:44.000Z,9,Morning,2,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,3.75,7.5,Weekend
+75,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:53:44.000Z,9,Morning,1,8,Hell's Kitchen,72,Bakery,Scone,Ginger Scone,3.25,3.25,Weekend
+76,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:53:49.000Z,9,Morning,1,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,3.1,Weekend
+77,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:54:46.000Z,9,Morning,1,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekend
+78,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:55:16.000Z,9,Morning,2,5,Lower Manhattan,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,6,Weekend
+79,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T09:56:30.000Z,9,Morning,1,8,Hell's Kitchen,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,Weekend
+80,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:00:39.000Z,10,Morning,2,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,6,Weekend
+81,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:03:55.000Z,10,Morning,2,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,7.5,Weekend
+82,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:14:49.000Z,10,Morning,1,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,3,3,Weekend
+83,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:14:49.000Z,10,Morning,1,5,Lower Manhattan,71,Bakery,Pastry,Chocolate Croissant,3.75,3.75,Weekend
+84,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:16:30.000Z,10,Morning,2,5,Lower Manhattan,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,6,Weekend
+85,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:16:33.000Z,10,Morning,1,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,2.5,Weekend
+86,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:18:14.000Z,10,Morning,2,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,8.5,Weekend
+87,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:18:52.000Z,10,Morning,2,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekend
+88,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:19:42.000Z,10,Morning,2,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,5,Weekend
+89,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:24:19.000Z,10,Morning,1,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,2.5,Weekend
+90,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:25:22.000Z,10,Morning,2,8,Hell's Kitchen,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,5.1,Weekend
+91,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:25:45.000Z,10,Morning,2,5,Lower Manhattan,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,7,Weekend
+92,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:25:45.000Z,10,Morning,1,5,Lower Manhattan,74,Bakery,Biscotti,Ginger Biscotti,3.5,3.5,Weekend
+93,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:27:48.000Z,10,Morning,2,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,6,Weekend
+94,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:30:07.000Z,10,Morning,1,5,Lower Manhattan,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,3.1,Weekend
+95,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:30:07.000Z,10,Morning,1,5,Lower Manhattan,70,Bakery,Scone,Cranberry Scone,3.25,3.25,Weekend
+96,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:35:47.000Z,10,Morning,1,8,Hell's Kitchen,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,3.75,Weekend
+97,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:41:53.000Z,10,Morning,1,5,Lower Manhattan,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,4.5,Weekend
+98,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:47:53.000Z,10,Morning,2,5,Lower Manhattan,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,7.5,Weekend
+99,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:49:13.000Z,10,Morning,2,8,Hell's Kitchen,51,Tea,Brewed Black tea,Earl Grey Lg,3,6,Weekend
+100,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:49:51.000Z,10,Morning,2,5,Lower Manhattan,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,9.5,Weekend
+101,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:51:17.000Z,10,Morning,1,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,3,Weekend
+102,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:52:44.000Z,10,Morning,2,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,5,Weekend
+103,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:52:44.000Z,10,Morning,1,8,Hell's Kitchen,73,Bakery,Pastry,Almond Croissant,3.75,3.75,Weekend
+104,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:56:14.000Z,10,Morning,1,5,Lower Manhattan,38,Coffee,Barista Espresso,Latte,3.75,3.75,Weekend
+105,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T10:56:14.000Z,10,Morning,1,5,Lower Manhattan,76,Bakery,Biscotti,Chocolate Chip Biscotti,3.5,3.5,Weekend
+106,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:01:48.000Z,11,Morning,1,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,Weekend
+107,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:01:58.000Z,11,Morning,1,3,Astoria,38,Coffee,Barista Espresso,Latte,3.75,3.75,Weekend
+108,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:01:58.000Z,11,Morning,1,3,Astoria,75,Bakery,Pastry,Croissant,3.5,3.5,Weekend
+109,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:03:25.000Z,11,Morning,2,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,6,Weekend
+110,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:03:25.000Z,11,Morning,1,5,Lower Manhattan,75,Bakery,Pastry,Croissant,3.5,3.5,Weekend
+111,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:04:32.000Z,11,Morning,2,8,Hell's Kitchen,39,Coffee,Barista Espresso,Latte Rg,4.25,8.5,Weekend
+112,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:08:11.000Z,11,Morning,1,3,Astoria,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,4.5,Weekend
+113,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:08:59.000Z,11,Morning,2,8,Hell's Kitchen,51,Tea,Brewed Black tea,Earl Grey Lg,3,6,Weekend
+114,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:09:01.000Z,11,Morning,1,3,Astoria,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,4.5,Weekend
+115,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:10:21.000Z,11,Morning,1,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,3,Weekend
+116,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:10:21.000Z,11,Morning,1,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekend
+117,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:10:58.000Z,11,Morning,1,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,2.5,Weekend
+118,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:12:29.000Z,11,Morning,1,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,3,Weekend
+119,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:16:02.000Z,11,Morning,2,3,Astoria,45,Tea,Brewed herbal tea,Peppermint Lg,3,6,Weekend
+120,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:21:00.000Z,11,Morning,2,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekend
+121,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:21:04.000Z,11,Morning,2,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,3,6,Weekend
+122,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:21:14.000Z,11,Morning,1,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,3.75,Weekend
+123,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:23:01.000Z,11,Morning,1,8,Hell's Kitchen,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,2.2,Weekend
+124,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:23:43.000Z,11,Morning,2,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,7.5,Weekend
+125,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:23:43.000Z,11,Morning,1,5,Lower Manhattan,77,Bakery,Scone,Oatmeal Scone,3,3,Weekend
+126,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:25:35.000Z,11,Morning,2,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,3,6,Weekend
+127,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:25:37.000Z,11,Morning,2,5,Lower Manhattan,40,Coffee,Barista Espresso,Cappuccino,3.75,7.5,Weekend
+128,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:28:15.000Z,11,Morning,2,8,Hell's Kitchen,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,5,Weekend
+129,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:28:29.000Z,11,Morning,2,3,Astoria,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,7,Weekend
+130,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:29:25.000Z,11,Morning,2,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,5.1,Weekend
+131,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:29:57.000Z,11,Morning,2,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,6.2,Weekend
+132,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:29:57.000Z,11,Morning,1,8,Hell's Kitchen,78,Bakery,Scone,Scottish Cream Scone ,4.5,4.5,Weekend
+133,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:30:22.000Z,11,Morning,1,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekend
+134,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:31:35.000Z,11,Morning,1,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekend
+135,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:31:43.000Z,11,Morning,2,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,3,6,Weekend
+136,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:31:43.000Z,11,Morning,1,5,Lower Manhattan,72,Bakery,Scone,Ginger Scone,3.25,3.25,Weekend
+137,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:31:53.000Z,11,Morning,2,5,Lower Manhattan,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekend
+138,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:31:53.000Z,11,Morning,1,5,Lower Manhattan,75,Bakery,Pastry,Croissant,3.5,3.5,Weekend
+139,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:39:14.000Z,11,Morning,1,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,3.75,Weekend
+140,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:39:14.000Z,11,Morning,1,5,Lower Manhattan,71,Bakery,Pastry,Chocolate Croissant,3.75,3.75,Weekend
+141,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:40:26.000Z,11,Morning,2,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,5,Weekend
+142,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:43:57.000Z,11,Morning,2,3,Astoria,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekend
+143,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:44:09.000Z,11,Morning,1,5,Lower Manhattan,38,Coffee,Barista Espresso,Latte,3.75,3.75,Weekend
+144,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:47:13.000Z,11,Morning,1,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,3,Weekend
+145,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:48:56.000Z,11,Morning,2,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,5,Weekend
+146,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:49:42.000Z,11,Morning,1,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,2.5,Weekend
+147,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:49:42.000Z,11,Morning,1,8,Hell's Kitchen,72,Bakery,Scone,Ginger Scone,3.25,3.25,Weekend
+148,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:50:16.000Z,11,Morning,2,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,3,6,Weekend
+149,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:50:23.000Z,11,Morning,2,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,7.5,Weekend
+150,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:50:58.000Z,11,Morning,2,5,Lower Manhattan,45,Tea,Brewed herbal tea,Peppermint Lg,3,6,Weekend
+151,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:51:30.000Z,11,Morning,2,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,7,Weekend
+152,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:52:31.000Z,11,Morning,1,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,3.1,Weekend
+153,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:57:17.000Z,11,Morning,2,3,Astoria,37,Coffee,Barista Espresso,Espresso shot,3,6,Weekend
+154,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:57:59.000Z,11,Morning,1,3,Astoria,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,2.5,Weekend
+155,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:57:59.000Z,11,Morning,1,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekend
+156,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T11:58:15.000Z,11,Morning,2,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,7.5,Weekend
+157,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:00:20.000Z,12,Afternoon,1,5,Lower Manhattan,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,2.5,Weekend
+158,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:01:00.000Z,12,Afternoon,2,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,3,6,Weekend
+159,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:01:20.000Z,12,Afternoon,2,3,Astoria,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,6.2,Weekend
+160,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:01:20.000Z,12,Afternoon,1,3,Astoria,75,Bakery,Pastry,Croissant,3.5,3.5,Weekend
+161,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:03:09.000Z,12,Afternoon,1,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,3.75,Weekend
+162,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:03:38.000Z,12,Afternoon,1,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,3,Weekend
+163,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:03:43.000Z,12,Afternoon,1,3,Astoria,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,2.5,Weekend
+164,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:04:22.000Z,12,Afternoon,2,8,Hell's Kitchen,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,7,Weekend
+165,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:05:31.000Z,12,Afternoon,2,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,5,Weekend
+166,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:06:29.000Z,12,Afternoon,1,5,Lower Manhattan,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,2.5,Weekend
+167,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:07:42.000Z,12,Afternoon,1,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekend
+168,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:08:21.000Z,12,Afternoon,1,5,Lower Manhattan,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,3,Weekend
+169,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:08:36.000Z,12,Afternoon,1,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,3.1,Weekend
+170,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:09:11.000Z,12,Afternoon,2,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,4,Weekend
+171,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:09:12.000Z,12,Afternoon,2,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,5,Weekend
+172,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:13:07.000Z,12,Afternoon,2,5,Lower Manhattan,38,Coffee,Barista Espresso,Latte,3.75,7.5,Weekend
+173,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:14:26.000Z,12,Afternoon,2,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,6.2,Weekend
+174,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:17:38.000Z,12,Afternoon,2,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,5,Weekend
+175,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:18:07.000Z,12,Afternoon,2,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekend
+176,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:18:44.000Z,12,Afternoon,2,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,3,6,Weekend
+177,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:20:16.000Z,12,Afternoon,2,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,7.5,Weekend
+178,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:23:39.000Z,12,Afternoon,1,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekend
+179,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:27:06.000Z,12,Afternoon,2,5,Lower Manhattan,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,8.5,Weekend
+180,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:30:46.000Z,12,Afternoon,2,3,Astoria,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,5,Weekend
+181,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:30:49.000Z,12,Afternoon,1,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,3.75,3.75,Weekend
+182,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:33:20.000Z,12,Afternoon,2,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekend
+183,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:33:35.000Z,12,Afternoon,2,3,Astoria,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,5,Weekend
+184,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:35:53.000Z,12,Afternoon,2,5,Lower Manhattan,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,4.4,Weekend
+185,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:36:57.000Z,12,Afternoon,1,8,Hell's Kitchen,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,3.75,Weekend
+186,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:38:28.000Z,12,Afternoon,2,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,3,6,Weekend
+187,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:42:26.000Z,12,Afternoon,1,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,3,Weekend
+188,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:44:01.000Z,12,Afternoon,1,8,Hell's Kitchen,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,3.75,Weekend
+189,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:44:31.000Z,12,Afternoon,1,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,3,Weekend
+190,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:44:32.000Z,12,Afternoon,1,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,2.5,Weekend
+191,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:45:52.000Z,12,Afternoon,2,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,4,Weekend
+192,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:46:22.000Z,12,Afternoon,1,3,Astoria,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,2.55,Weekend
+193,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:46:26.000Z,12,Afternoon,1,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekend
+194,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:46:55.000Z,12,Afternoon,1,3,Astoria,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,3.5,Weekend
+195,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:46:55.000Z,12,Afternoon,1,3,Astoria,75,Bakery,Pastry,Croissant,3.5,3.5,Weekend
+196,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:48:08.000Z,12,Afternoon,2,3,Astoria,38,Coffee,Barista Espresso,Latte,3.75,7.5,Weekend
+197,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:49:48.000Z,12,Afternoon,1,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,3,Weekend
+198,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:50:15.000Z,12,Afternoon,1,3,Astoria,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,4.5,Weekend
+199,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:50:28.000Z,12,Afternoon,2,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,6,Weekend
+200,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:51:21.000Z,12,Afternoon,1,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,3,Weekend
+201,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:51:57.000Z,12,Afternoon,1,5,Lower Manhattan,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,4.75,Weekend
+202,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:51:57.000Z,12,Afternoon,1,5,Lower Manhattan,72,Bakery,Scone,Ginger Scone,3.25,3.25,Weekend
+203,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:52:18.000Z,12,Afternoon,1,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,2.55,Weekend
+204,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:52:18.000Z,12,Afternoon,1,5,Lower Manhattan,75,Bakery,Pastry,Croissant,3.5,3.5,Weekend
+205,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:53:11.000Z,12,Afternoon,2,8,Hell's Kitchen,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,5,Weekend
+206,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:53:59.000Z,12,Afternoon,1,8,Hell's Kitchen,37,Coffee,Barista Espresso,Espresso shot,3,3,Weekend
+207,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:55:25.000Z,12,Afternoon,1,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,3,3,Weekend
+208,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:55:27.000Z,12,Afternoon,1,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,3.1,Weekend
+209,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:55:27.000Z,12,Afternoon,1,5,Lower Manhattan,75,Bakery,Pastry,Croissant,3.5,3.5,Weekend
+210,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:55:36.000Z,12,Afternoon,1,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,3,3,Weekend
+211,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:55:53.000Z,12,Afternoon,2,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,3,6,Weekend
+212,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:56:33.000Z,12,Afternoon,1,3,Astoria,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,4.75,Weekend
+213,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:56:59.000Z,12,Afternoon,1,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,3,Weekend
+214,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:58:54.000Z,12,Afternoon,2,3,Astoria,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,5,Weekend
+215,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T12:59:06.000Z,12,Afternoon,1,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,3.75,Weekend
+216,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:00:38.000Z,13,Afternoon,2,5,Lower Manhattan,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,6,Weekend
+217,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:01:33.000Z,13,Afternoon,2,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekend
+218,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:02:40.000Z,13,Afternoon,1,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,3,3,Weekend
+219,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:02:40.000Z,13,Afternoon,1,8,Hell's Kitchen,78,Bakery,Scone,Scottish Cream Scone ,4.5,4.5,Weekend
+220,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:02:52.000Z,13,Afternoon,1,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,3,3,Weekend
+221,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:03:13.000Z,13,Afternoon,2,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,6,Weekend
+222,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:04:01.000Z,13,Afternoon,2,8,Hell's Kitchen,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekend
+223,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:04:01.000Z,13,Afternoon,1,8,Hell's Kitchen,72,Bakery,Scone,Ginger Scone,3.25,3.25,Weekend
+224,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:04:22.000Z,13,Afternoon,2,8,Hell's Kitchen,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,5,Weekend
+225,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:04:37.000Z,13,Afternoon,2,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekend
+226,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:04:51.000Z,13,Afternoon,1,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,Weekend
+227,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:05:56.000Z,13,Afternoon,1,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,3.5,Weekend
+228,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:07:37.000Z,13,Afternoon,2,5,Lower Manhattan,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,6,Weekend
+229,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:09:03.000Z,13,Afternoon,1,3,Astoria,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,3.1,Weekend
+230,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:12:03.000Z,13,Afternoon,2,5,Lower Manhattan,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,6,Weekend
+231,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:13:09.000Z,13,Afternoon,1,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,3.75,Weekend
+232,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:17:30.000Z,13,Afternoon,1,8,Hell's Kitchen,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,2.55,Weekend
+233,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:17:32.000Z,13,Afternoon,2,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,8,Weekend
+234,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:18:34.000Z,13,Afternoon,2,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,3,6,Weekend
+235,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:19:09.000Z,13,Afternoon,1,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekend
+236,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:19:09.000Z,13,Afternoon,1,8,Hell's Kitchen,75,Bakery,Pastry,Croissant,3.5,3.5,Weekend
+237,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:19:36.000Z,13,Afternoon,1,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekend
+238,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:19:56.000Z,13,Afternoon,2,8,Hell's Kitchen,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,4.4,Weekend
+239,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:20:51.000Z,13,Afternoon,2,3,Astoria,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,6.2,Weekend
+240,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:21:23.000Z,13,Afternoon,2,3,Astoria,38,Coffee,Barista Espresso,Latte,3.75,7.5,Weekend
+241,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:22:11.000Z,13,Afternoon,1,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekend
+242,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:22:45.000Z,13,Afternoon,2,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,5,Weekend
+243,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:23:54.000Z,13,Afternoon,2,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,7,Weekend
+244,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:24:29.000Z,13,Afternoon,2,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,7.5,Weekend
+245,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:30:49.000Z,13,Afternoon,2,5,Lower Manhattan,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,4.4,Weekend
+246,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:32:07.000Z,13,Afternoon,2,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekend
+247,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:32:34.000Z,13,Afternoon,1,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,3,3,Weekend
+248,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:34:12.000Z,13,Afternoon,2,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,4,Weekend
+249,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:38:09.000Z,13,Afternoon,1,8,Hell's Kitchen,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,3.5,Weekend
+250,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:38:11.000Z,13,Afternoon,2,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,3.75,7.5,Weekend
+251,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:39:41.000Z,13,Afternoon,1,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,3,3,Weekend
+252,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:40:47.000Z,13,Afternoon,2,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekend
+253,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:41:09.000Z,13,Afternoon,2,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,5,Weekend
+254,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:42:10.000Z,13,Afternoon,1,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,3,Weekend
+255,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:42:49.000Z,13,Afternoon,1,5,Lower Manhattan,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,3.75,Weekend
+256,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:42:58.000Z,13,Afternoon,1,5,Lower Manhattan,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,2.5,Weekend
+257,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:42:58.000Z,13,Afternoon,1,5,Lower Manhattan,72,Bakery,Scone,Ginger Scone,3.25,3.25,Weekend
+258,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:43:18.000Z,13,Afternoon,2,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekend
+259,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:43:18.000Z,13,Afternoon,1,3,Astoria,69,Bakery,Biscotti,Hazelnut Biscotti,3.25,3.25,Weekend
+260,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:43:41.000Z,13,Afternoon,2,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekend
+261,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:44:26.000Z,13,Afternoon,1,3,Astoria,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,3.1,Weekend
+262,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:47:51.000Z,13,Afternoon,1,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,3.75,3.75,Weekend
+263,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:49:03.000Z,13,Afternoon,2,8,Hell's Kitchen,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,4,Weekend
+264,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:50:09.000Z,13,Afternoon,1,5,Lower Manhattan,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,3,Weekend
+265,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:50:47.000Z,13,Afternoon,2,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekend
+266,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:51:56.000Z,13,Afternoon,2,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,6,Weekend
+267,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:53:04.000Z,13,Afternoon,2,3,Astoria,38,Coffee,Barista Espresso,Latte,3.75,7.5,Weekend
+268,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:53:31.000Z,13,Afternoon,1,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,3.5,Weekend
+269,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:54:18.000Z,13,Afternoon,2,8,Hell's Kitchen,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,4,Weekend
+270,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:55:04.000Z,13,Afternoon,1,5,Lower Manhattan,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,2.5,Weekend
+271,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:55:50.000Z,13,Afternoon,2,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,3,6,Weekend
+272,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:56:15.000Z,13,Afternoon,2,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,5,Weekend
+273,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:56:24.000Z,13,Afternoon,1,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,3,Weekend
+274,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:57:34.000Z,13,Afternoon,2,5,Lower Manhattan,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,7,Weekend
+275,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:57:34.000Z,13,Afternoon,1,5,Lower Manhattan,71,Bakery,Pastry,Chocolate Croissant,3.75,3.75,Weekend
+276,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:58:10.000Z,13,Afternoon,2,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,5,Weekend
+277,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:58:11.000Z,13,Afternoon,1,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,2.45,Weekend
+278,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T13:59:58.000Z,13,Afternoon,2,5,Lower Manhattan,39,Coffee,Barista Espresso,Latte Rg,4.25,8.5,Weekend
+279,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:03:34.000Z,14,Afternoon,2,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekend
+280,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:03:34.000Z,14,Afternoon,1,5,Lower Manhattan,69,Bakery,Biscotti,Hazelnut Biscotti,3.25,3.25,Weekend
+281,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:03:41.000Z,14,Afternoon,1,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,3,Weekend
+282,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:07:12.000Z,14,Afternoon,2,3,Astoria,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,8.5,Weekend
+283,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:07:56.000Z,14,Afternoon,1,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekend
+284,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:08:03.000Z,14,Afternoon,1,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekend
+285,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:08:03.000Z,14,Afternoon,1,8,Hell's Kitchen,71,Bakery,Pastry,Chocolate Croissant,3.75,3.75,Weekend
+286,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:11:14.000Z,14,Afternoon,2,8,Hell's Kitchen,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,7.5,Weekend
+287,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:13:28.000Z,14,Afternoon,2,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,6.2,Weekend
+288,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:19:57.000Z,14,Afternoon,2,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,5,Weekend
+289,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:20:06.000Z,14,Afternoon,2,3,Astoria,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,6.2,Weekend
+290,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:20:08.000Z,14,Afternoon,2,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,5,Weekend
+291,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:22:01.000Z,14,Afternoon,2,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,3,6,Weekend
+292,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:22:38.000Z,14,Afternoon,2,5,Lower Manhattan,39,Coffee,Barista Espresso,Latte Rg,4.25,8.5,Weekend
+293,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:23:28.000Z,14,Afternoon,1,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekend
+294,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:23:28.000Z,14,Afternoon,1,8,Hell's Kitchen,71,Bakery,Pastry,Chocolate Croissant,3.75,3.75,Weekend
+295,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:24:55.000Z,14,Afternoon,2,3,Astoria,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,8.5,Weekend
+296,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:24:55.000Z,14,Afternoon,1,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekend
+297,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:25:32.000Z,14,Afternoon,2,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,7,Weekend
+298,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:25:39.000Z,14,Afternoon,2,5,Lower Manhattan,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,6,Weekend
+299,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:26:36.000Z,14,Afternoon,1,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,4.75,Weekend
+300,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:29:05.000Z,14,Afternoon,2,5,Lower Manhattan,45,Tea,Brewed herbal tea,Peppermint Lg,3,6,Weekend
+301,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:29:50.000Z,14,Afternoon,2,5,Lower Manhattan,49,Tea,Brewed Black tea,English Breakfast Lg,3,6,Weekend
+302,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:29:50.000Z,14,Afternoon,1,5,Lower Manhattan,78,Bakery,Scone,Scottish Cream Scone ,4.5,4.5,Weekend
+303,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:30:51.000Z,14,Afternoon,1,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekend
+304,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:30:58.000Z,14,Afternoon,1,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,3.1,Weekend
+305,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:31:26.000Z,14,Afternoon,1,5,Lower Manhattan,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,2.5,Weekend
+306,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:32:20.000Z,14,Afternoon,2,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,6,Weekend
+307,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:32:42.000Z,14,Afternoon,2,5,Lower Manhattan,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,8.5,Weekend
+308,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:32:54.000Z,14,Afternoon,2,8,Hell's Kitchen,39,Coffee,Barista Espresso,Latte Rg,4.25,8.5,Weekend
+309,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:35:47.000Z,14,Afternoon,1,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekend
+310,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:36:23.000Z,14,Afternoon,2,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,6,Weekend
+311,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:36:35.000Z,14,Afternoon,1,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,3.1,Weekend
+312,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:37:48.000Z,14,Afternoon,1,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,2.5,Weekend
+313,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:39:06.000Z,14,Afternoon,1,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,3,3,Weekend
+314,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:39:48.000Z,14,Afternoon,2,8,Hell's Kitchen,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,4.9,Weekend
+315,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:42:39.000Z,14,Afternoon,2,5,Lower Manhattan,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,9.5,Weekend
+316,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:43:13.000Z,14,Afternoon,2,3,Astoria,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,5,Weekend
+317,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:45:31.000Z,14,Afternoon,1,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,3,Weekend
+318,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:46:09.000Z,14,Afternoon,1,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekend
+319,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:47:29.000Z,14,Afternoon,1,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekend
+320,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:47:29.000Z,14,Afternoon,1,8,Hell's Kitchen,75,Bakery,Pastry,Croissant,3.5,3.5,Weekend
+321,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:49:49.000Z,14,Afternoon,2,8,Hell's Kitchen,51,Tea,Brewed Black tea,Earl Grey Lg,3,6,Weekend
+322,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:51:19.000Z,14,Afternoon,2,5,Lower Manhattan,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,6,Weekend
+323,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:55:34.000Z,14,Afternoon,2,3,Astoria,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,4.9,Weekend
+324,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:58:07.000Z,14,Afternoon,2,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,6,Weekend
+325,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T14:58:35.000Z,14,Afternoon,1,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,3,Weekend
+326,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:02:04.000Z,15,Afternoon,2,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,4.25,8.5,Weekend
+327,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:02:28.000Z,15,Afternoon,1,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,3.75,3.75,Weekend
+328,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:06:27.000Z,15,Afternoon,2,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekend
+329,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:08:28.000Z,15,Afternoon,2,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,6,Weekend
+330,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:09:37.000Z,15,Afternoon,1,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,Weekend
+331,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:09:54.000Z,15,Afternoon,1,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,4.75,Weekend
+332,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:10:10.000Z,15,Afternoon,1,5,Lower Manhattan,40,Coffee,Barista Espresso,Cappuccino,3.75,3.75,Weekend
+333,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:10:10.000Z,15,Afternoon,1,5,Lower Manhattan,75,Bakery,Pastry,Croissant,3.5,3.5,Weekend
+334,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:12:22.000Z,15,Afternoon,1,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekend
+335,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:12:54.000Z,15,Afternoon,2,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,5,Weekend
+336,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:14:19.000Z,15,Afternoon,2,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,3,6,Weekend
+337,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:16:37.000Z,15,Afternoon,2,5,Lower Manhattan,38,Coffee,Barista Espresso,Latte,3.75,7.5,Weekend
+338,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:18:56.000Z,15,Afternoon,1,3,Astoria,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,4.75,Weekend
+339,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:19:34.000Z,15,Afternoon,1,3,Astoria,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,2.5,Weekend
+340,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:21:05.000Z,15,Afternoon,2,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,6,Weekend
+341,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:22:11.000Z,15,Afternoon,2,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,4.25,8.5,Weekend
+342,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:24:01.000Z,15,Afternoon,1,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,3,3,Weekend
+343,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:25:09.000Z,15,Afternoon,2,5,Lower Manhattan,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,5,Weekend
+344,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:27:11.000Z,15,Afternoon,2,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,7,Weekend
+345,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:28:29.000Z,15,Afternoon,1,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,3.5,Weekend
+346,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:28:54.000Z,15,Afternoon,1,5,Lower Manhattan,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,3,Weekend
+347,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:29:24.000Z,15,Afternoon,1,3,Astoria,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,3.1,Weekend
+348,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:29:24.000Z,15,Afternoon,1,3,Astoria,70,Bakery,Scone,Cranberry Scone,3.25,3.25,Weekend
+349,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:30:16.000Z,15,Afternoon,1,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,3,Weekend
+350,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:30:27.000Z,15,Afternoon,2,3,Astoria,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,4.4,Weekend
+351,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:30:58.000Z,15,Afternoon,1,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,2.45,Weekend
+352,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:30:58.000Z,15,Afternoon,2,8,Hell's Kitchen,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,5,Weekend
+353,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:33:36.000Z,15,Afternoon,2,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,4,Weekend
+354,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:33:36.000Z,15,Afternoon,1,5,Lower Manhattan,74,Bakery,Biscotti,Ginger Biscotti,3.5,3.5,Weekend
+355,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:34:10.000Z,15,Afternoon,2,3,Astoria,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,8.5,Weekend
+356,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:34:10.000Z,15,Afternoon,1,3,Astoria,76,Bakery,Biscotti,Chocolate Chip Biscotti,3.5,3.5,Weekend
+357,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:36:59.000Z,15,Afternoon,2,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,3,6,Weekend
+358,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:39:44.000Z,15,Afternoon,1,8,Hell's Kitchen,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,2.5,Weekend
+359,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:42:20.000Z,15,Afternoon,1,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,3.75,Weekend
+360,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:45:16.000Z,15,Afternoon,2,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,5,Weekend
+361,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:46:34.000Z,15,Afternoon,2,5,Lower Manhattan,40,Coffee,Barista Espresso,Cappuccino,3.75,7.5,Weekend
+362,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:51:15.000Z,15,Afternoon,2,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,6.2,Weekend
+363,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:52:23.000Z,15,Afternoon,2,5,Lower Manhattan,39,Coffee,Barista Espresso,Latte Rg,4.25,8.5,Weekend
+364,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:52:23.000Z,15,Afternoon,1,5,Lower Manhattan,69,Bakery,Biscotti,Hazelnut Biscotti,3.25,3.25,Weekend
+365,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:53:55.000Z,15,Afternoon,2,5,Lower Manhattan,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,7,Weekend
+366,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:55:45.000Z,15,Afternoon,1,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekend
+367,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:55:50.000Z,15,Afternoon,2,3,Astoria,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,4.4,Weekend
+368,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T15:58:55.000Z,15,Afternoon,1,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekend
+369,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:00:23.000Z,16,Afternoon,1,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,3.75,3.75,Weekend
+370,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:02:07.000Z,16,Afternoon,1,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,4.25,Weekend
+371,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:03:30.000Z,16,Afternoon,2,3,Astoria,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,4.9,Weekend
+372,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:03:54.000Z,16,Afternoon,1,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,2.5,Weekend
+373,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:04:10.000Z,16,Afternoon,2,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,5,Weekend
+374,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:06:04.000Z,16,Afternoon,2,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,5,Weekend
+375,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:07:20.000Z,16,Afternoon,2,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,5,Weekend
+376,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:08:59.000Z,16,Afternoon,2,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,5,Weekend
+377,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:10:37.000Z,16,Afternoon,2,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,5,Weekend
+378,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:12:00.000Z,16,Afternoon,1,8,Hell's Kitchen,87,Coffee,Barista Espresso,Ouro Brasileiro shot,3,3,Weekend
+379,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:17:06.000Z,16,Afternoon,2,3,Astoria,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,4.9,Weekend
+380,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:17:52.000Z,16,Afternoon,2,3,Astoria,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,5,Weekend
+381,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:19:00.000Z,16,Afternoon,2,8,Hell's Kitchen,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,5,Weekend
+382,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:19:17.000Z,16,Afternoon,1,3,Astoria,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,2.55,Weekend
+383,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:19:26.000Z,16,Afternoon,2,5,Lower Manhattan,40,Coffee,Barista Espresso,Cappuccino,3.75,7.5,Weekend
+384,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:20:07.000Z,16,Afternoon,2,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,7.5,Weekend
+385,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:22:07.000Z,16,Afternoon,1,5,Lower Manhattan,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,Weekend
+386,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:22:38.000Z,16,Afternoon,1,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,Weekend
+387,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:25:28.000Z,16,Afternoon,1,3,Astoria,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,2.5,Weekend
+388,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:27:42.000Z,16,Afternoon,1,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,2.55,Weekend
+389,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:28:00.000Z,16,Afternoon,2,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,6,Weekend
+390,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:28:57.000Z,16,Afternoon,1,5,Lower Manhattan,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,2.5,Weekend
+391,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:29:36.000Z,16,Afternoon,2,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,7,Weekend
+392,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:30:12.000Z,16,Afternoon,1,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,3.75,3.75,Weekend
+393,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:33:35.000Z,16,Afternoon,1,3,Astoria,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,3.1,Weekend
+394,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:35:11.000Z,16,Afternoon,1,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,Weekend
+395,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:39:24.000Z,16,Afternoon,1,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,3.75,Weekend
+396,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:39:27.000Z,16,Afternoon,1,8,Hell's Kitchen,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,3.5,Weekend
+397,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:40:18.000Z,16,Afternoon,1,3,Astoria,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,3.5,Weekend
+398,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:40:19.000Z,16,Afternoon,1,5,Lower Manhattan,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,2.5,Weekend
+399,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:41:51.000Z,16,Afternoon,1,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekend
+400,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:43:33.000Z,16,Afternoon,2,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,5,Weekend
+401,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:44:46.000Z,16,Afternoon,2,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekend
+402,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:47:05.000Z,16,Afternoon,1,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,2.5,Weekend
+403,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:47:05.000Z,16,Afternoon,1,5,Lower Manhattan,72,Bakery,Scone,Ginger Scone,3.25,3.25,Weekend
+404,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:48:31.000Z,16,Afternoon,2,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,5,Weekend
+405,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:49:19.000Z,16,Afternoon,1,5,Lower Manhattan,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,3,Weekend
+406,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:49:19.000Z,16,Afternoon,1,5,Lower Manhattan,71,Bakery,Pastry,Chocolate Croissant,3.75,3.75,Weekend
+407,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:49:38.000Z,16,Afternoon,1,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,2.5,Weekend
+408,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:52:13.000Z,16,Afternoon,2,8,Hell's Kitchen,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,5,Weekend
+409,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:52:51.000Z,16,Afternoon,1,5,Lower Manhattan,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,2.5,Weekend
+410,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:56:48.000Z,16,Afternoon,1,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,Weekend
+411,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:58:42.000Z,16,Afternoon,1,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,3.5,Weekend
+412,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T16:58:42.000Z,16,Afternoon,1,3,Astoria,69,Bakery,Biscotti,Hazelnut Biscotti,3.25,3.25,Weekend
+413,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:01:03.000Z,17,Evening,2,5,Lower Manhattan,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,7.5,Weekend
+414,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:01:31.000Z,17,Evening,2,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,5,Weekend
+415,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:03:21.000Z,17,Evening,1,3,Astoria,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,2.5,Weekend
+416,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:05:44.000Z,17,Evening,2,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,7.5,Weekend
+417,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:09:18.000Z,17,Evening,2,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,6,Weekend
+418,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:10:34.000Z,17,Evening,1,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,3.5,Weekend
+419,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:10:35.000Z,17,Evening,1,3,Astoria,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,4.5,Weekend
+420,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:11:58.000Z,17,Evening,2,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,7.5,Weekend
+421,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:13:17.000Z,17,Evening,2,5,Lower Manhattan,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,4.4,Weekend
+422,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:16:17.000Z,17,Evening,1,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,3.1,Weekend
+423,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:17:19.000Z,17,Evening,2,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,8,Weekend
+424,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:17:22.000Z,17,Evening,1,8,Hell's Kitchen,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,2.2,Weekend
+425,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:18:36.000Z,17,Evening,1,3,Astoria,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,2.5,Weekend
+426,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:19:08.000Z,17,Evening,2,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,4.9,Weekend
+427,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:19:08.000Z,17,Evening,1,5,Lower Manhattan,75,Bakery,Pastry,Croissant,3.5,3.5,Weekend
+428,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:19:11.000Z,17,Evening,2,8,Hell's Kitchen,39,Coffee,Barista Espresso,Latte Rg,4.25,8.5,Weekend
+429,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:19:28.000Z,17,Evening,2,8,Hell's Kitchen,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,4,Weekend
+430,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:19:49.000Z,17,Evening,2,8,Hell's Kitchen,87,Coffee,Barista Espresso,Ouro Brasileiro shot,3,6,Weekend
+431,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:19:49.000Z,17,Evening,1,8,Hell's Kitchen,78,Bakery,Scone,Scottish Cream Scone ,4.5,4.5,Weekend
+432,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:20:02.000Z,17,Evening,2,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,5,Weekend
+433,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:20:02.000Z,17,Evening,1,8,Hell's Kitchen,77,Bakery,Scone,Oatmeal Scone,3,3,Weekend
+434,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:22:36.000Z,17,Evening,1,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,3.75,Weekend
+435,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:23:03.000Z,17,Evening,1,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekend
+436,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:23:04.000Z,17,Evening,1,3,Astoria,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,4.25,Weekend
+437,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:25:45.000Z,17,Evening,2,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,7,Weekend
+438,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:26:15.000Z,17,Evening,1,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,3.1,Weekend
+439,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:26:15.000Z,17,Evening,1,8,Hell's Kitchen,76,Bakery,Biscotti,Chocolate Chip Biscotti,3.5,3.5,Weekend
+440,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:28:42.000Z,17,Evening,1,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,3,3,Weekend
+441,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:28:42.000Z,17,Evening,1,5,Lower Manhattan,70,Bakery,Scone,Cranberry Scone,3.25,3.25,Weekend
+442,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:29:25.000Z,17,Evening,1,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,2.5,Weekend
+443,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:29:25.000Z,17,Evening,1,3,Astoria,75,Bakery,Pastry,Croissant,3.5,3.5,Weekend
+444,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:34:47.000Z,17,Evening,2,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekend
+445,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:35:26.000Z,17,Evening,1,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,3,Weekend
+446,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:35:26.000Z,17,Evening,1,3,Astoria,69,Bakery,Biscotti,Hazelnut Biscotti,3.25,3.25,Weekend
+447,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:37:26.000Z,17,Evening,1,8,Hell's Kitchen,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,2.5,Weekend
+448,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:40:50.000Z,17,Evening,1,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekend
+449,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:41:55.000Z,17,Evening,2,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,8,Weekend
+450,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:41:55.000Z,17,Evening,1,3,Astoria,71,Bakery,Pastry,Chocolate Croissant,3.75,3.75,Weekend
+451,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:43:49.000Z,17,Evening,2,8,Hell's Kitchen,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,5,Weekend
+452,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:44:28.000Z,17,Evening,2,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,7,Weekend
+453,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:44:28.000Z,17,Evening,1,3,Astoria,74,Bakery,Biscotti,Ginger Biscotti,3.5,3.5,Weekend
+454,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:44:48.000Z,17,Evening,1,8,Hell's Kitchen,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,2.45,Weekend
+455,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:45:21.000Z,17,Evening,1,8,Hell's Kitchen,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,3.5,Weekend
+456,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:46:21.000Z,17,Evening,2,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,7.5,Weekend
+457,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:46:21.000Z,17,Evening,1,8,Hell's Kitchen,76,Bakery,Biscotti,Chocolate Chip Biscotti,3.5,3.5,Weekend
+458,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:49:04.000Z,17,Evening,2,8,Hell's Kitchen,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,7.5,Weekend
+459,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:50:19.000Z,17,Evening,1,5,Lower Manhattan,45,Tea,Brewed herbal tea,Peppermint Lg,3,3,Weekend
+460,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:50:30.000Z,17,Evening,2,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,3.75,7.5,Weekend
+461,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:51:06.000Z,17,Evening,2,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,7.5,Weekend
+462,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:54:11.000Z,17,Evening,2,3,Astoria,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,5.1,Weekend
+463,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:56:46.000Z,17,Evening,1,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,3,Weekend
+464,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:58:01.000Z,17,Evening,1,5,Lower Manhattan,39,Coffee,Barista Espresso,Latte Rg,4.25,4.25,Weekend
+465,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:59:44.000Z,17,Evening,2,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,6,Weekend
+466,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T17:59:44.000Z,17,Evening,1,8,Hell's Kitchen,76,Bakery,Biscotti,Chocolate Chip Biscotti,3.5,3.5,Weekend
+467,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:01:08.000Z,18,Evening,2,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,3,6,Weekend
+468,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:02:00.000Z,18,Evening,1,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,2.5,Weekend
+469,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:02:21.000Z,18,Evening,2,5,Lower Manhattan,49,Tea,Brewed Black tea,English Breakfast Lg,3,6,Weekend
+470,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:03:13.000Z,18,Evening,1,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,Weekend
+471,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:03:13.000Z,18,Evening,1,3,Astoria,78,Bakery,Scone,Scottish Cream Scone ,4.5,4.5,Weekend
+472,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:04:34.000Z,18,Evening,1,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,Weekend
+473,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:06:52.000Z,18,Evening,2,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,6,Weekend
+474,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:06:52.000Z,18,Evening,1,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekend
+475,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:07:13.000Z,18,Evening,1,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekend
+476,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:08:53.000Z,18,Evening,2,3,Astoria,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,4.9,Weekend
+477,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:12:37.000Z,18,Evening,2,3,Astoria,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekend
+478,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:13:32.000Z,18,Evening,2,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,5,Weekend
+479,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:13:41.000Z,18,Evening,2,8,Hell's Kitchen,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,6.2,Weekend
+480,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:14:28.000Z,18,Evening,2,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,3,6,Weekend
+481,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:17:09.000Z,18,Evening,2,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,7.5,Weekend
+482,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:18:10.000Z,18,Evening,1,3,Astoria,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,4.5,Weekend
+483,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:19:45.000Z,18,Evening,1,5,Lower Manhattan,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,2.5,Weekend
+484,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:19:45.000Z,18,Evening,1,5,Lower Manhattan,76,Bakery,Biscotti,Chocolate Chip Biscotti,3.5,3.5,Weekend
+485,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:21:22.000Z,18,Evening,1,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,2.5,Weekend
+486,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:22:12.000Z,18,Evening,2,3,Astoria,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,9.5,Weekend
+487,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:22:48.000Z,18,Evening,2,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,3,6,Weekend
+488,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:22:53.000Z,18,Evening,1,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,3,Weekend
+489,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:22:53.000Z,18,Evening,1,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekend
+490,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:23:34.000Z,18,Evening,2,5,Lower Manhattan,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,6,Weekend
+491,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:25:51.000Z,18,Evening,1,3,Astoria,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,4.75,Weekend
+492,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:25:57.000Z,18,Evening,1,8,Hell's Kitchen,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,3,Weekend
+493,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:27:08.000Z,18,Evening,2,5,Lower Manhattan,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekend
+494,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:29:34.000Z,18,Evening,2,8,Hell's Kitchen,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,5,Weekend
+495,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:30:05.000Z,18,Evening,2,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,8,Weekend
+496,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:34:56.000Z,18,Evening,2,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,7.5,Weekend
+497,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:39:29.000Z,18,Evening,1,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,Weekend
+498,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:40:29.000Z,18,Evening,2,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,6,Weekend
+499,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:41:13.000Z,18,Evening,1,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekend
+500,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:41:28.000Z,18,Evening,2,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,3,6,Weekend
+501,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:42:04.000Z,18,Evening,2,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,7.5,Weekend
+502,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:42:16.000Z,18,Evening,1,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,2.5,Weekend
+503,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:43:19.000Z,18,Evening,1,3,Astoria,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,3.1,Weekend
+504,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:43:42.000Z,18,Evening,1,3,Astoria,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,2.2,Weekend
+505,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:45:11.000Z,18,Evening,2,3,Astoria,38,Coffee,Barista Espresso,Latte,3.75,7.5,Weekend
+506,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:49:48.000Z,18,Evening,1,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,3.5,Weekend
+507,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:51:23.000Z,18,Evening,2,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,6,Weekend
+508,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:51:41.000Z,18,Evening,1,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,Weekend
+509,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:52:18.000Z,18,Evening,2,8,Hell's Kitchen,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,4,Weekend
+510,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:52:57.000Z,18,Evening,2,3,Astoria,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,9,Weekend
+511,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:55:19.000Z,18,Evening,2,3,Astoria,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,5.1,Weekend
+512,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:56:24.000Z,18,Evening,2,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,6,Weekend
+513,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:56:35.000Z,18,Evening,2,8,Hell's Kitchen,39,Coffee,Barista Espresso,Latte Rg,4.25,8.5,Weekend
+514,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T18:56:35.000Z,18,Evening,1,8,Hell's Kitchen,73,Bakery,Pastry,Almond Croissant,3.75,3.75,Weekend
+515,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:00:27.000Z,19,Evening,1,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,3,Weekend
+516,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:02:52.000Z,19,Evening,2,8,Hell's Kitchen,37,Coffee,Barista Espresso,Espresso shot,3,6,Weekend
+517,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:06:58.000Z,19,Evening,1,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,3.75,3.75,Weekend
+518,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:07:26.000Z,19,Evening,2,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,6,Weekend
+519,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:07:40.000Z,19,Evening,1,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekend
+520,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:08:11.000Z,19,Evening,2,8,Hell's Kitchen,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,7,Weekend
+521,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:08:56.000Z,19,Evening,1,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,3.75,Weekend
+522,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:09:54.000Z,19,Evening,1,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,4.25,Weekend
+523,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:10:16.000Z,19,Evening,2,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,7,Weekend
+524,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:10:53.000Z,19,Evening,2,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,8,Weekend
+525,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:12:49.000Z,19,Evening,2,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,3.75,7.5,Weekend
+526,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:14:09.000Z,19,Evening,2,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,6,Weekend
+527,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:15:15.000Z,19,Evening,1,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekend
+528,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:21:35.000Z,19,Evening,1,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,3,3,Weekend
+529,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:22:39.000Z,19,Evening,1,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,3.75,3.75,Weekend
+530,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:24:18.000Z,19,Evening,1,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,2.5,Weekend
+531,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:24:18.000Z,19,Evening,1,8,Hell's Kitchen,77,Bakery,Scone,Oatmeal Scone,3,3,Weekend
+532,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:29:01.000Z,19,Evening,2,3,Astoria,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,5,Weekend
+533,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:29:07.000Z,19,Evening,1,3,Astoria,38,Coffee,Barista Espresso,Latte,3.75,3.75,Weekend
+534,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:30:55.000Z,19,Evening,2,3,Astoria,51,Tea,Brewed Black tea,Earl Grey Lg,3,6,Weekend
+535,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:34:03.000Z,19,Evening,1,8,Hell's Kitchen,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,3,Weekend
+536,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:34:39.000Z,19,Evening,2,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,9.5,Weekend
+537,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:34:48.000Z,19,Evening,1,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,3.75,3.75,Weekend
+538,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:35:55.000Z,19,Evening,2,8,Hell's Kitchen,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,7,Weekend
+539,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:37:51.000Z,19,Evening,1,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,3.75,Weekend
+540,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:38:46.000Z,19,Evening,2,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,8,Weekend
+541,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:39:00.000Z,19,Evening,2,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,6,Weekend
+542,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:39:32.000Z,19,Evening,1,3,Astoria,37,Coffee,Barista Espresso,Espresso shot,3,3,Weekend
+543,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:43:29.000Z,19,Evening,1,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,2.5,Weekend
+544,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:44:41.000Z,19,Evening,1,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,4.75,Weekend
+545,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:45:28.000Z,19,Evening,1,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,3,3,Weekend
+546,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:49:37.000Z,19,Evening,1,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,3.75,Weekend
+547,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:52:47.000Z,19,Evening,1,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,3,Weekend
+548,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:57:56.000Z,19,Evening,1,3,Astoria,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,3.1,Weekend
+549,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:58:29.000Z,19,Evening,1,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekend
+550,2023-01-01,2023,1,Jan,1,Sun,2026-06-30T19:58:52.000Z,19,Evening,1,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,4.25,4.25,Weekend
+551,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T07:01:59.000Z,7,Morning,1,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,3,3,Weekday
+552,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T07:12:05.000Z,7,Morning,1,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,3,3,Weekday
+553,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T07:16:35.000Z,7,Morning,2,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,4,Weekday
+554,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T07:16:46.000Z,7,Morning,1,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,3.1,Weekday
+555,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T07:16:46.000Z,7,Morning,1,5,Lower Manhattan,70,Bakery,Scone,Cranberry Scone,3.25,3.25,Weekday
+556,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T07:22:08.000Z,7,Morning,2,5,Lower Manhattan,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,9.5,Weekday
+557,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T07:22:45.000Z,7,Morning,1,5,Lower Manhattan,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,2.5,Weekday
+558,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T07:25:59.000Z,7,Morning,1,5,Lower Manhattan,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekday
+559,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T07:35:10.000Z,7,Morning,1,5,Lower Manhattan,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,3,Weekday
+560,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T07:48:26.000Z,7,Morning,1,5,Lower Manhattan,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,4.25,Weekday
+561,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T07:48:26.000Z,7,Morning,1,5,Lower Manhattan,75,Bakery,Pastry,Croissant,3.5,3.5,Weekday
+562,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T07:53:48.000Z,7,Morning,2,5,Lower Manhattan,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,7,Weekday
+563,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T07:59:47.000Z,7,Morning,1,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekday
+564,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T07:59:47.000Z,7,Morning,1,5,Lower Manhattan,75,Bakery,Pastry,Croissant,3.5,3.5,Weekday
+565,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:03:47.000Z,8,Morning,2,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,6,Weekday
+566,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:04:06.000Z,8,Morning,2,8,Hell's Kitchen,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,4.4,Weekday
+567,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:04:55.000Z,8,Morning,1,8,Hell's Kitchen,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,2.2,Weekday
+568,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:04:59.000Z,8,Morning,1,5,Lower Manhattan,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,4.75,Weekday
+569,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:09:46.000Z,8,Morning,1,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekday
+570,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:09:51.000Z,8,Morning,1,5,Lower Manhattan,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,4.75,Weekday
+571,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:11:11.000Z,8,Morning,2,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,9.5,Weekday
+572,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:11:11.000Z,8,Morning,1,8,Hell's Kitchen,74,Bakery,Biscotti,Ginger Biscotti,3.5,3.5,Weekday
+573,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:13:24.000Z,8,Morning,1,8,Hell's Kitchen,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,3.5,Weekday
+574,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:14:13.000Z,8,Morning,1,5,Lower Manhattan,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekday
+575,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:15:07.000Z,8,Morning,1,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,3.75,Weekday
+576,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:15:10.000Z,8,Morning,2,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,6,Weekday
+577,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:17:28.000Z,8,Morning,1,8,Hell's Kitchen,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,2.5,Weekday
+578,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:20:38.000Z,8,Morning,2,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,5,Weekday
+579,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:21:32.000Z,8,Morning,2,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,3.75,7.5,Weekday
+580,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:23:15.000Z,8,Morning,1,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,3,3,Weekday
+581,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:25:22.000Z,8,Morning,1,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,2.2,Weekday
+582,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:26:13.000Z,8,Morning,2,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,4,Weekday
+583,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:26:21.000Z,8,Morning,2,8,Hell's Kitchen,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,4.4,Weekday
+584,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:30:10.000Z,8,Morning,1,5,Lower Manhattan,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,2.5,Weekday
+585,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:31:35.000Z,8,Morning,1,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,3.1,Weekday
+586,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:34:25.000Z,8,Morning,2,8,Hell's Kitchen,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekday
+587,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:34:30.000Z,8,Morning,1,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekday
+588,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:43:50.000Z,8,Morning,1,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,3,Weekday
+589,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:51:31.000Z,8,Morning,2,5,Lower Manhattan,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,6,Weekday
+590,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T08:55:40.000Z,8,Morning,1,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,Weekday
+591,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:00:14.000Z,9,Morning,1,8,Hell's Kitchen,39,Coffee,Barista Espresso,Latte Rg,4.25,4.25,Weekday
+592,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:01:24.000Z,9,Morning,1,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,3,Weekday
+593,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:06:29.000Z,9,Morning,1,5,Lower Manhattan,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,3.5,Weekday
+594,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:07:31.000Z,9,Morning,2,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,3,6,Weekday
+595,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:11:10.000Z,9,Morning,1,8,Hell's Kitchen,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,4.5,Weekday
+596,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:11:10.000Z,9,Morning,1,8,Hell's Kitchen,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekday
+597,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:11:45.000Z,9,Morning,1,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,4.75,Weekday
+598,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:11:57.000Z,9,Morning,2,8,Hell's Kitchen,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,4.9,Weekday
+599,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:11:57.000Z,9,Morning,1,8,Hell's Kitchen,72,Bakery,Scone,Ginger Scone,3.25,3.25,Weekday
+600,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:12:47.000Z,9,Morning,2,5,Lower Manhattan,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,4.4,Weekday
+601,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:12:47.000Z,9,Morning,1,5,Lower Manhattan,75,Bakery,Pastry,Croissant,3.5,3.5,Weekday
+602,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:17:08.000Z,9,Morning,1,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,2.5,Weekday
+603,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:21:01.000Z,9,Morning,1,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekday
+604,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:22:26.000Z,9,Morning,1,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,3.75,3.75,Weekday
+605,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:25:27.000Z,9,Morning,1,5,Lower Manhattan,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,2.5,Weekday
+606,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:26:16.000Z,9,Morning,2,8,Hell's Kitchen,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,4,Weekday
+607,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:29:47.000Z,9,Morning,2,8,Hell's Kitchen,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,4,Weekday
+608,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:29:47.000Z,9,Morning,1,8,Hell's Kitchen,70,Bakery,Scone,Cranberry Scone,3.25,3.25,Weekday
+609,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:31:37.000Z,9,Morning,2,8,Hell's Kitchen,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,9,Weekday
+610,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:33:57.000Z,9,Morning,2,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,5,Weekday
+611,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:36:26.000Z,9,Morning,1,8,Hell's Kitchen,87,Coffee,Barista Espresso,Ouro Brasileiro shot,3,3,Weekday
+612,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:38:46.000Z,9,Morning,2,8,Hell's Kitchen,87,Coffee,Barista Espresso,Ouro Brasileiro shot,3,6,Weekday
+613,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:40:52.000Z,9,Morning,1,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekday
+614,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:45:34.000Z,9,Morning,1,5,Lower Manhattan,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,3,Weekday
+615,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:46:33.000Z,9,Morning,2,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,5,Weekday
+616,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:48:46.000Z,9,Morning,2,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,6,Weekday
+617,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:50:09.000Z,9,Morning,1,8,Hell's Kitchen,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,3.5,Weekday
+618,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:50:57.000Z,9,Morning,1,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekday
+619,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:52:17.000Z,9,Morning,1,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,3,3,Weekday
+620,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:54:48.000Z,9,Morning,1,8,Hell's Kitchen,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,2.45,Weekday
+621,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:56:28.000Z,9,Morning,2,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,8.5,Weekday
+622,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:56:45.000Z,9,Morning,1,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,3,3,Weekday
+623,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T09:58:47.000Z,9,Morning,2,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,3,6,Weekday
+624,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:01:57.000Z,10,Morning,1,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,4.75,Weekday
+625,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:03:39.000Z,10,Morning,1,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,3,Weekday
+626,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:03:39.000Z,10,Morning,1,8,Hell's Kitchen,76,Bakery,Biscotti,Chocolate Chip Biscotti,3.5,3.5,Weekday
+627,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:05:11.000Z,10,Morning,1,5,Lower Manhattan,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,3.5,Weekday
+628,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:05:22.000Z,10,Morning,1,5,Lower Manhattan,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekday
+629,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:07:28.000Z,10,Morning,1,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,3,3,Weekday
+630,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:08:23.000Z,10,Morning,1,8,Hell's Kitchen,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,3,Weekday
+631,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:10:47.000Z,10,Morning,2,8,Hell's Kitchen,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,5.1,Weekday
+632,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:13:55.000Z,10,Morning,2,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,3,6,Weekday
+633,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:13:55.000Z,10,Morning,1,5,Lower Manhattan,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekday
+634,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:16:43.000Z,10,Morning,1,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,Weekday
+635,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:19:33.000Z,10,Morning,1,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,4.75,Weekday
+636,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:20:52.000Z,10,Morning,2,8,Hell's Kitchen,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,5,Weekday
+637,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:22:19.000Z,10,Morning,1,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekday
+638,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:26:49.000Z,10,Morning,1,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekday
+639,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:27:05.000Z,10,Morning,1,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,2.2,Weekday
+640,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:28:41.000Z,10,Morning,1,8,Hell's Kitchen,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,2.5,Weekday
+641,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:30:39.000Z,10,Morning,2,8,Hell's Kitchen,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,5,Weekday
+642,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:36:18.000Z,10,Morning,2,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,5,Weekday
+643,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:36:44.000Z,10,Morning,1,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,3,3,Weekday
+644,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:38:55.000Z,10,Morning,2,8,Hell's Kitchen,51,Tea,Brewed Black tea,Earl Grey Lg,3,6,Weekday
+645,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:48:57.000Z,10,Morning,1,5,Lower Manhattan,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,3,Weekday
+646,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:49:58.000Z,10,Morning,1,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,3,Weekday
+647,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:55:08.000Z,10,Morning,1,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekday
+648,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:55:35.000Z,10,Morning,1,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekday
+649,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T10:59:58.000Z,10,Morning,1,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,3,Weekday
+650,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:01:06.000Z,11,Morning,2,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,5,Weekday
+651,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:04:21.000Z,11,Morning,1,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,3.5,Weekday
+652,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:04:21.000Z,11,Morning,1,3,Astoria,70,Bakery,Scone,Cranberry Scone,3.25,3.25,Weekday
+653,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:06:10.000Z,11,Morning,1,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,3,3,Weekday
+654,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:06:10.000Z,11,Morning,1,3,Astoria,77,Bakery,Scone,Oatmeal Scone,3,3,Weekday
+655,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:06:28.000Z,11,Morning,1,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,2.2,Weekday
+656,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:10:15.000Z,11,Morning,2,8,Hell's Kitchen,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,5,Weekday
+657,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:11:23.000Z,11,Morning,2,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,3,6,Weekday
+658,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:12:05.000Z,11,Morning,1,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,4.25,Weekday
+659,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:12:33.000Z,11,Morning,1,5,Lower Manhattan,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,2.5,Weekday
+660,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:13:01.000Z,11,Morning,2,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,4,Weekday
+661,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:13:37.000Z,11,Morning,1,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,2.5,Weekday
+662,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:14:15.000Z,11,Morning,2,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,6,Weekday
+663,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:15:12.000Z,11,Morning,1,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,3.75,3.75,Weekday
+664,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:15:28.000Z,11,Morning,1,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,3,Weekday
+665,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:15:40.000Z,11,Morning,1,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,2.5,Weekday
+666,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:16:51.000Z,11,Morning,2,3,Astoria,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,4.4,Weekday
+667,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:16:51.000Z,11,Morning,1,3,Astoria,75,Bakery,Pastry,Croissant,3.5,3.5,Weekday
+668,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:18:12.000Z,11,Morning,2,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,7.5,Weekday
+669,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:18:25.000Z,11,Morning,2,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,5,Weekday
+670,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:19:12.000Z,11,Morning,2,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,6,Weekday
+671,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:19:42.000Z,11,Morning,1,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,3.1,Weekday
+672,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:21:43.000Z,11,Morning,2,3,Astoria,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,5,Weekday
+673,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:21:49.000Z,11,Morning,2,3,Astoria,38,Coffee,Barista Espresso,Latte,3.75,7.5,Weekday
+674,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:22:46.000Z,11,Morning,1,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,3,Weekday
+675,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:25:20.000Z,11,Morning,2,5,Lower Manhattan,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekday
+676,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:27:35.000Z,11,Morning,2,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,5,Weekday
+677,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:32:11.000Z,11,Morning,2,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,6,Weekday
+678,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:34:44.000Z,11,Morning,1,8,Hell's Kitchen,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,3,Weekday
+679,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:35:02.000Z,11,Morning,1,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,3,3,Weekday
+680,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:35:02.000Z,11,Morning,1,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekday
+681,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:35:14.000Z,11,Morning,2,3,Astoria,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekday
+682,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:35:14.000Z,11,Morning,1,3,Astoria,69,Bakery,Biscotti,Hazelnut Biscotti,3.25,3.25,Weekday
+683,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:36:50.000Z,11,Morning,2,5,Lower Manhattan,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,7,Weekday
+684,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:38:23.000Z,11,Morning,2,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,6,Weekday
+685,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:39:11.000Z,11,Morning,2,5,Lower Manhattan,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,5,Weekday
+686,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:39:11.000Z,11,Morning,1,5,Lower Manhattan,74,Bakery,Biscotti,Ginger Biscotti,3.5,3.5,Weekday
+687,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:40:12.000Z,11,Morning,2,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,3,6,Weekday
+688,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:41:54.000Z,11,Morning,1,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekday
+689,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:42:36.000Z,11,Morning,2,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,3,6,Weekday
+690,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:42:36.000Z,11,Morning,1,8,Hell's Kitchen,72,Bakery,Scone,Ginger Scone,3.25,3.25,Weekday
+691,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:43:04.000Z,11,Morning,2,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,3,6,Weekday
+692,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:49:10.000Z,11,Morning,1,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,2.5,Weekday
+693,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:50:18.000Z,11,Morning,1,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,3.5,Weekday
+694,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:50:32.000Z,11,Morning,1,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,3.5,Weekday
+695,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:53:48.000Z,11,Morning,2,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,5,Weekday
+696,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:53:54.000Z,11,Morning,2,8,Hell's Kitchen,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,9,Weekday
+697,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:54:01.000Z,11,Morning,2,5,Lower Manhattan,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,6,Weekday
+698,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:54:30.000Z,11,Morning,1,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,3,3,Weekday
+699,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:55:31.000Z,11,Morning,1,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,3,Weekday
+700,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:56:26.000Z,11,Morning,1,8,Hell's Kitchen,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,Weekday
+701,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:56:58.000Z,11,Morning,1,8,Hell's Kitchen,37,Coffee,Barista Espresso,Espresso shot,3,3,Weekday
+702,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:56:58.000Z,11,Morning,1,8,Hell's Kitchen,78,Bakery,Scone,Scottish Cream Scone ,4.5,4.5,Weekday
+703,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:58:49.000Z,11,Morning,2,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,6.2,Weekday
+704,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T11:58:49.000Z,11,Morning,1,8,Hell's Kitchen,71,Bakery,Pastry,Chocolate Croissant,3.75,3.75,Weekday
+705,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:01:50.000Z,12,Afternoon,1,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,3,Weekday
+706,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:03:47.000Z,12,Afternoon,1,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekday
+707,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:06:18.000Z,12,Afternoon,1,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,3,Weekday
+708,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:12:01.000Z,12,Afternoon,2,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,6,Weekday
+709,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:12:44.000Z,12,Afternoon,1,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,2.5,Weekday
+710,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:14:00.000Z,12,Afternoon,1,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,2.5,Weekday
+711,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:18:13.000Z,12,Afternoon,1,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekday
+712,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:18:22.000Z,12,Afternoon,2,3,Astoria,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekday
+713,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:18:22.000Z,12,Afternoon,1,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekday
+714,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:20:43.000Z,12,Afternoon,1,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,3,Weekday
+715,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:20:43.000Z,12,Afternoon,1,5,Lower Manhattan,71,Bakery,Pastry,Chocolate Croissant,3.75,3.75,Weekday
+716,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:21:38.000Z,12,Afternoon,1,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekday
+717,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:21:39.000Z,12,Afternoon,1,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,3,3,Weekday
+718,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:21:58.000Z,12,Afternoon,2,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,6,Weekday
+719,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:22:04.000Z,12,Afternoon,1,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,Weekday
+720,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:22:12.000Z,12,Afternoon,1,5,Lower Manhattan,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekday
+721,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:22:12.000Z,12,Afternoon,1,5,Lower Manhattan,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekday
+722,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:23:03.000Z,12,Afternoon,1,5,Lower Manhattan,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,Weekday
+723,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:23:30.000Z,12,Afternoon,1,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,3,Weekday
+724,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:23:30.000Z,12,Afternoon,1,3,Astoria,78,Bakery,Scone,Scottish Cream Scone ,4.5,4.5,Weekday
+725,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:24:39.000Z,12,Afternoon,2,5,Lower Manhattan,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,7,Weekday
+726,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:24:39.000Z,12,Afternoon,1,5,Lower Manhattan,69,Bakery,Biscotti,Hazelnut Biscotti,3.25,3.25,Weekday
+727,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:25:03.000Z,12,Afternoon,1,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekday
+728,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:25:24.000Z,12,Afternoon,2,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,5.1,Weekday
+729,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:26:13.000Z,12,Afternoon,2,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekday
+730,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:26:13.000Z,12,Afternoon,1,5,Lower Manhattan,78,Bakery,Scone,Scottish Cream Scone ,4.5,4.5,Weekday
+731,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:26:18.000Z,12,Afternoon,1,8,Hell's Kitchen,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,Weekday
+732,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:27:01.000Z,12,Afternoon,1,8,Hell's Kitchen,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,3.75,Weekday
+733,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:28:08.000Z,12,Afternoon,2,3,Astoria,51,Tea,Brewed Black tea,Earl Grey Lg,3,6,Weekday
+734,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:28:25.000Z,12,Afternoon,1,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,3.75,Weekday
+735,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:29:07.000Z,12,Afternoon,1,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekday
+736,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:30:43.000Z,12,Afternoon,2,3,Astoria,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,5,Weekday
+737,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:32:19.000Z,12,Afternoon,1,8,Hell's Kitchen,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,3.1,Weekday
+738,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:33:04.000Z,12,Afternoon,2,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,6,Weekday
+739,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:34:00.000Z,12,Afternoon,1,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekday
+740,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:36:06.000Z,12,Afternoon,1,8,Hell's Kitchen,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,3,Weekday
+741,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:36:37.000Z,12,Afternoon,1,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,2.2,Weekday
+742,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:38:47.000Z,12,Afternoon,2,8,Hell's Kitchen,87,Coffee,Barista Espresso,Ouro Brasileiro shot,3,6,Weekday
+743,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:38:51.000Z,12,Afternoon,1,3,Astoria,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,2.55,Weekday
+744,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:39:04.000Z,12,Afternoon,2,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,3,6,Weekday
+745,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:41:28.000Z,12,Afternoon,1,8,Hell's Kitchen,87,Coffee,Barista Espresso,Ouro Brasileiro shot,3,3,Weekday
+746,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:42:19.000Z,12,Afternoon,1,5,Lower Manhattan,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,2.5,Weekday
+747,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:42:47.000Z,12,Afternoon,1,8,Hell's Kitchen,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,3.75,Weekday
+748,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:45:02.000Z,12,Afternoon,1,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,3,3,Weekday
+749,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:46:04.000Z,12,Afternoon,2,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,5,Weekday
+750,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:47:49.000Z,12,Afternoon,2,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,5,Weekday
+751,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:53:16.000Z,12,Afternoon,2,8,Hell's Kitchen,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,4,Weekday
+752,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:54:07.000Z,12,Afternoon,1,5,Lower Manhattan,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,3.5,Weekday
+753,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:54:07.000Z,12,Afternoon,1,5,Lower Manhattan,77,Bakery,Scone,Oatmeal Scone,3,3,Weekday
+754,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:54:53.000Z,12,Afternoon,2,5,Lower Manhattan,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,5,Weekday
+755,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:55:19.000Z,12,Afternoon,1,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,2.5,Weekday
+756,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:57:55.000Z,12,Afternoon,2,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,6,Weekday
+757,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:58:04.000Z,12,Afternoon,2,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,6,Weekday
+758,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:58:38.000Z,12,Afternoon,2,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,3,6,Weekday
+759,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:58:57.000Z,12,Afternoon,1,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,3.1,Weekday
+760,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:59:28.000Z,12,Afternoon,1,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,3,Weekday
+761,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T12:59:45.000Z,12,Afternoon,2,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,6,Weekday
+762,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:02:03.000Z,13,Afternoon,2,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,7,Weekday
+763,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:03:14.000Z,13,Afternoon,2,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,3.75,7.5,Weekday
+764,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:03:14.000Z,13,Afternoon,1,8,Hell's Kitchen,76,Bakery,Biscotti,Chocolate Chip Biscotti,3.5,3.5,Weekday
+765,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:03:33.000Z,13,Afternoon,2,5,Lower Manhattan,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,4,Weekday
+766,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:03:53.000Z,13,Afternoon,2,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,4,Weekday
+767,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:04:02.000Z,13,Afternoon,1,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,3,3,Weekday
+768,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:04:56.000Z,13,Afternoon,2,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,7,Weekday
+769,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:05:41.000Z,13,Afternoon,1,3,Astoria,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,4.75,Weekday
+770,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:09:27.000Z,13,Afternoon,1,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,3,3,Weekday
+771,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:09:27.000Z,13,Afternoon,1,5,Lower Manhattan,70,Bakery,Scone,Cranberry Scone,3.25,3.25,Weekday
+772,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:10:17.000Z,13,Afternoon,1,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,3.5,Weekday
+773,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:10:17.000Z,13,Afternoon,1,8,Hell's Kitchen,78,Bakery,Scone,Scottish Cream Scone ,4.5,4.5,Weekday
+774,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:10:41.000Z,13,Afternoon,2,8,Hell's Kitchen,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,6,Weekday
+775,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:14:54.000Z,13,Afternoon,2,5,Lower Manhattan,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,4.4,Weekday
+776,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:15:40.000Z,13,Afternoon,1,5,Lower Manhattan,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekday
+777,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:21:09.000Z,13,Afternoon,2,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,5,Weekday
+778,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:21:23.000Z,13,Afternoon,2,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,5,Weekday
+779,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:23:18.000Z,13,Afternoon,2,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,4.25,8.5,Weekday
+780,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:23:38.000Z,13,Afternoon,1,3,Astoria,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,2.5,Weekday
+781,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:24:33.000Z,13,Afternoon,2,3,Astoria,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,4.4,Weekday
+782,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:25:02.000Z,13,Afternoon,1,8,Hell's Kitchen,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,3.1,Weekday
+783,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:26:47.000Z,13,Afternoon,1,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,3,Weekday
+784,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:28:24.000Z,13,Afternoon,2,8,Hell's Kitchen,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,5,Weekday
+785,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:29:51.000Z,13,Afternoon,1,3,Astoria,38,Coffee,Barista Espresso,Latte,3.75,3.75,Weekday
+786,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:29:59.000Z,13,Afternoon,1,3,Astoria,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,2.55,Weekday
+787,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:30:00.000Z,13,Afternoon,2,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,7,Weekday
+788,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:30:00.000Z,13,Afternoon,1,3,Astoria,76,Bakery,Biscotti,Chocolate Chip Biscotti,3.5,3.5,Weekday
+789,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:30:05.000Z,13,Afternoon,1,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,2.5,Weekday
+790,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:30:15.000Z,13,Afternoon,1,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,3,Weekday
+791,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:30:30.000Z,13,Afternoon,2,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,4.25,8.5,Weekday
+792,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:30:30.000Z,13,Afternoon,1,8,Hell's Kitchen,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,2.2,Weekday
+793,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:34:02.000Z,13,Afternoon,1,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekday
+794,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:35:24.000Z,13,Afternoon,2,5,Lower Manhattan,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,6,Weekday
+795,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:35:24.000Z,13,Afternoon,2,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,6,Weekday
+796,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:39:11.000Z,13,Afternoon,2,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,5,Weekday
+797,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:40:11.000Z,13,Afternoon,1,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,4.25,4.25,Weekday
+798,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:40:36.000Z,13,Afternoon,2,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,6,Weekday
+799,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:40:53.000Z,13,Afternoon,1,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekday
+800,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:40:53.000Z,13,Afternoon,1,5,Lower Manhattan,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekday
+801,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:42:07.000Z,13,Afternoon,1,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,3.75,Weekday
+802,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:47:24.000Z,13,Afternoon,1,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,Weekday
+803,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:47:27.000Z,13,Afternoon,2,8,Hell's Kitchen,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,9,Weekday
+804,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:48:27.000Z,13,Afternoon,2,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,3,6,Weekday
+805,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:48:27.000Z,13,Afternoon,1,8,Hell's Kitchen,73,Bakery,Pastry,Almond Croissant,3.75,3.75,Weekday
+806,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:51:33.000Z,13,Afternoon,1,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,3.75,Weekday
+807,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:51:33.000Z,13,Afternoon,1,3,Astoria,70,Bakery,Scone,Cranberry Scone,3.25,3.25,Weekday
+808,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:52:27.000Z,13,Afternoon,2,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekday
+809,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:53:04.000Z,13,Afternoon,1,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,3,3,Weekday
+810,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:53:04.000Z,13,Afternoon,1,8,Hell's Kitchen,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekday
+811,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:55:38.000Z,13,Afternoon,1,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekday
+812,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:55:38.000Z,13,Afternoon,1,8,Hell's Kitchen,71,Bakery,Pastry,Chocolate Croissant,3.75,3.75,Weekday
+813,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:56:19.000Z,13,Afternoon,1,5,Lower Manhattan,39,Coffee,Barista Espresso,Latte Rg,4.25,4.25,Weekday
+814,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:57:59.000Z,13,Afternoon,2,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,3.75,7.5,Weekday
+815,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:58:30.000Z,13,Afternoon,2,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,7.5,Weekday
+816,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T13:58:36.000Z,13,Afternoon,1,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,4.25,4.25,Weekday
+817,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:01:23.000Z,14,Afternoon,1,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,2.5,Weekday
+818,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:02:16.000Z,14,Afternoon,2,8,Hell's Kitchen,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekday
+819,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:02:44.000Z,14,Afternoon,2,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,4,Weekday
+820,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:03:27.000Z,14,Afternoon,1,3,Astoria,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,4.5,Weekday
+821,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:05:27.000Z,14,Afternoon,1,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,2.55,Weekday
+822,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:05:27.000Z,14,Afternoon,1,5,Lower Manhattan,75,Bakery,Pastry,Croissant,3.5,3.5,Weekday
+823,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:07:17.000Z,14,Afternoon,1,3,Astoria,37,Coffee,Barista Espresso,Espresso shot,3,3,Weekday
+824,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:07:49.000Z,14,Afternoon,2,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,7.5,Weekday
+825,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:08:49.000Z,14,Afternoon,1,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,3.75,3.75,Weekday
+826,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:11:08.000Z,14,Afternoon,1,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,Weekday
+827,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:12:00.000Z,14,Afternoon,1,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,2.5,Weekday
+828,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:12:07.000Z,14,Afternoon,2,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,3,6,Weekday
+829,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:12:35.000Z,14,Afternoon,2,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekday
+830,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:12:35.000Z,14,Afternoon,1,3,Astoria,72,Bakery,Scone,Ginger Scone,3.25,3.25,Weekday
+831,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:13:26.000Z,14,Afternoon,1,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekday
+832,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:13:37.000Z,14,Afternoon,2,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,4.4,Weekday
+833,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:14:26.000Z,14,Afternoon,2,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,7,Weekday
+834,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:17:08.000Z,14,Afternoon,1,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekday
+835,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:17:55.000Z,14,Afternoon,2,3,Astoria,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,9.5,Weekday
+836,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:17:55.000Z,14,Afternoon,1,3,Astoria,75,Bakery,Pastry,Croissant,3.5,3.5,Weekday
+837,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:19:24.000Z,14,Afternoon,1,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,3,3,Weekday
+838,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:21:55.000Z,14,Afternoon,2,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,8.5,Weekday
+839,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:24:46.000Z,14,Afternoon,1,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,3,Weekday
+840,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:25:35.000Z,14,Afternoon,1,8,Hell's Kitchen,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,2.2,Weekday
+841,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:26:33.000Z,14,Afternoon,1,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,3.75,Weekday
+842,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:29:35.000Z,14,Afternoon,2,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,6,Weekday
+843,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:29:35.000Z,14,Afternoon,1,3,Astoria,71,Bakery,Pastry,Chocolate Croissant,3.75,3.75,Weekday
+844,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:33:26.000Z,14,Afternoon,1,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,Weekday
+845,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:33:58.000Z,14,Afternoon,2,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,3,6,Weekday
+846,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:34:53.000Z,14,Afternoon,1,3,Astoria,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekday
+847,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:36:56.000Z,14,Afternoon,2,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,3,6,Weekday
+848,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:37:44.000Z,14,Afternoon,2,8,Hell's Kitchen,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,5,Weekday
+849,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:39:18.000Z,14,Afternoon,1,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekday
+850,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:40:25.000Z,14,Afternoon,2,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,3.75,7.5,Weekday
+851,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:42:21.000Z,14,Afternoon,1,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,3,Weekday
+852,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:42:21.000Z,14,Afternoon,1,3,Astoria,72,Bakery,Scone,Ginger Scone,3.25,3.25,Weekday
+853,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:44:28.000Z,14,Afternoon,2,5,Lower Manhattan,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,5,Weekday
+854,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:46:31.000Z,14,Afternoon,2,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,5,Weekday
+855,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:48:02.000Z,14,Afternoon,2,5,Lower Manhattan,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,7,Weekday
+856,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:48:05.000Z,14,Afternoon,1,5,Lower Manhattan,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,4.25,Weekday
+857,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:48:53.000Z,14,Afternoon,1,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,3,Weekday
+858,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:51:11.000Z,14,Afternoon,1,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,3.75,Weekday
+859,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:52:26.000Z,14,Afternoon,1,5,Lower Manhattan,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,2.5,Weekday
+860,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:52:26.000Z,14,Afternoon,1,5,Lower Manhattan,76,Bakery,Biscotti,Chocolate Chip Biscotti,3.5,3.5,Weekday
+861,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:54:33.000Z,14,Afternoon,2,3,Astoria,37,Coffee,Barista Espresso,Espresso shot,3,6,Weekday
+862,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:54:40.000Z,14,Afternoon,1,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,3,3,Weekday
+863,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:54:46.000Z,14,Afternoon,2,5,Lower Manhattan,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,5,Weekday
+864,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:55:38.000Z,14,Afternoon,2,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,7.5,Weekday
+865,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:58:21.000Z,14,Afternoon,2,8,Hell's Kitchen,87,Coffee,Barista Espresso,Ouro Brasileiro shot,3,6,Weekday
+866,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:58:28.000Z,14,Afternoon,2,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,5,Weekday
+867,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T14:59:08.000Z,14,Afternoon,1,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,3,Weekday
+868,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:03:12.000Z,15,Afternoon,2,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,3,6,Weekday
+869,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:03:12.000Z,15,Afternoon,1,3,Astoria,73,Bakery,Pastry,Almond Croissant,3.75,3.75,Weekday
+870,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:04:21.000Z,15,Afternoon,2,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,5,Weekday
+871,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:05:22.000Z,15,Afternoon,1,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,3.5,Weekday
+872,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:05:22.000Z,15,Afternoon,1,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekday
+873,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:09:48.000Z,15,Afternoon,2,5,Lower Manhattan,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,4.4,Weekday
+874,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:10:48.000Z,15,Afternoon,1,8,Hell's Kitchen,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,2.5,Weekday
+875,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:12:44.000Z,15,Afternoon,1,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,2.5,Weekday
+876,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:15:03.000Z,15,Afternoon,1,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,3.75,3.75,Weekday
+877,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:15:03.000Z,15,Afternoon,1,3,Astoria,77,Bakery,Scone,Oatmeal Scone,3,3,Weekday
+878,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:18:41.000Z,15,Afternoon,1,5,Lower Manhattan,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,4.5,Weekday
+879,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:19:46.000Z,15,Afternoon,1,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,3,Weekday
+880,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:21:45.000Z,15,Afternoon,2,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,6,Weekday
+881,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:22:19.000Z,15,Afternoon,2,8,Hell's Kitchen,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,4,Weekday
+882,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:23:29.000Z,15,Afternoon,2,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,3,6,Weekday
+883,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:24:16.000Z,15,Afternoon,1,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,3.75,Weekday
+884,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:24:52.000Z,15,Afternoon,2,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,5,Weekday
+885,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:26:08.000Z,15,Afternoon,1,3,Astoria,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,2.5,Weekday
+886,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:26:22.000Z,15,Afternoon,2,5,Lower Manhattan,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,5,Weekday
+887,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:26:22.000Z,15,Afternoon,1,5,Lower Manhattan,69,Bakery,Biscotti,Hazelnut Biscotti,3.25,3.25,Weekday
+888,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:27:43.000Z,15,Afternoon,1,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,3.5,Weekday
+889,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:27:48.000Z,15,Afternoon,1,3,Astoria,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,4.25,Weekday
+890,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:28:35.000Z,15,Afternoon,2,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,3,6,Weekday
+891,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:29:31.000Z,15,Afternoon,2,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,5,Weekday
+892,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:30:51.000Z,15,Afternoon,1,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,3.75,3.75,Weekday
+893,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:32:44.000Z,15,Afternoon,2,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,3,6,Weekday
+894,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:34:44.000Z,15,Afternoon,2,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,4.9,Weekday
+895,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:35:22.000Z,15,Afternoon,1,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,3,Weekday
+896,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:35:22.000Z,15,Afternoon,1,8,Hell's Kitchen,69,Bakery,Biscotti,Hazelnut Biscotti,3.25,3.25,Weekday
+897,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:35:30.000Z,15,Afternoon,2,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,7.5,Weekday
+898,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:35:30.000Z,15,Afternoon,1,5,Lower Manhattan,70,Bakery,Scone,Cranberry Scone,3.25,3.25,Weekday
+899,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:36:29.000Z,15,Afternoon,2,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,5,Weekday
+900,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:36:47.000Z,15,Afternoon,2,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,5,Weekday
+901,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:37:20.000Z,15,Afternoon,2,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,7,Weekday
+902,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:37:20.000Z,15,Afternoon,1,8,Hell's Kitchen,69,Bakery,Biscotti,Hazelnut Biscotti,3.25,3.25,Weekday
+903,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:38:44.000Z,15,Afternoon,2,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,6,Weekday
+904,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:41:09.000Z,15,Afternoon,1,8,Hell's Kitchen,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,2.5,Weekday
+905,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:41:09.000Z,15,Afternoon,1,8,Hell's Kitchen,69,Bakery,Biscotti,Hazelnut Biscotti,3.25,3.25,Weekday
+906,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:41:55.000Z,15,Afternoon,2,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,6,Weekday
+907,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:41:55.000Z,15,Afternoon,1,5,Lower Manhattan,74,Bakery,Biscotti,Ginger Biscotti,3.5,3.5,Weekday
+908,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:42:50.000Z,15,Afternoon,1,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekday
+909,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:44:59.000Z,15,Afternoon,2,3,Astoria,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,5,Weekday
+910,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:48:55.000Z,15,Afternoon,1,5,Lower Manhattan,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,2.5,Weekday
+911,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:48:55.000Z,15,Afternoon,1,5,Lower Manhattan,73,Bakery,Pastry,Almond Croissant,3.75,3.75,Weekday
+912,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:49:27.000Z,15,Afternoon,1,5,Lower Manhattan,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,2.5,Weekday
+913,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:49:27.000Z,15,Afternoon,1,5,Lower Manhattan,78,Bakery,Scone,Scottish Cream Scone ,4.5,4.5,Weekday
+914,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:50:12.000Z,15,Afternoon,2,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekday
+915,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:50:12.000Z,15,Afternoon,1,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekday
+916,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:50:27.000Z,15,Afternoon,2,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,6,Weekday
+917,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:50:28.000Z,15,Afternoon,2,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,5,Weekday
+918,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:51:29.000Z,15,Afternoon,1,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,2.45,Weekday
+919,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:51:57.000Z,15,Afternoon,2,5,Lower Manhattan,38,Coffee,Barista Espresso,Latte,3.75,7.5,Weekday
+920,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:52:14.000Z,15,Afternoon,2,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,4.9,Weekday
+921,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:52:58.000Z,15,Afternoon,1,8,Hell's Kitchen,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,2.55,Weekday
+922,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:54:43.000Z,15,Afternoon,2,8,Hell's Kitchen,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,4,Weekday
+923,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:55:19.000Z,15,Afternoon,1,5,Lower Manhattan,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekday
+924,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:55:19.000Z,15,Afternoon,1,5,Lower Manhattan,79,Bakery,Scone,Jumbo Savory Scone,3.75,3.75,Weekday
+925,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:55:27.000Z,15,Afternoon,2,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,5.1,Weekday
+926,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:56:41.000Z,15,Afternoon,1,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekday
+927,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:58:07.000Z,15,Afternoon,2,5,Lower Manhattan,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,5,Weekday
+928,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:59:37.000Z,15,Afternoon,1,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,3.5,Weekday
+929,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T15:59:53.000Z,15,Afternoon,2,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,6,Weekday
+930,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:00:33.000Z,16,Afternoon,2,3,Astoria,51,Tea,Brewed Black tea,Earl Grey Lg,3,6,Weekday
+931,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:00:33.000Z,16,Afternoon,1,3,Astoria,78,Bakery,Scone,Scottish Cream Scone ,4.5,4.5,Weekday
+932,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:02:09.000Z,16,Afternoon,1,5,Lower Manhattan,40,Coffee,Barista Espresso,Cappuccino,3.75,3.75,Weekday
+933,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:02:21.000Z,16,Afternoon,1,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,2.5,2.5,Weekday
+934,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:05:18.000Z,16,Afternoon,1,5,Lower Manhattan,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,2.5,Weekday
+935,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:06:01.000Z,16,Afternoon,2,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,4.9,Weekday
+936,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:06:18.000Z,16,Afternoon,1,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,4.25,4.25,Weekday
+937,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:08:22.000Z,16,Afternoon,1,5,Lower Manhattan,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,2.5,Weekday
+938,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:09:17.000Z,16,Afternoon,1,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,4.25,4.25,Weekday
+939,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:09:45.000Z,16,Afternoon,2,3,Astoria,45,Tea,Brewed herbal tea,Peppermint Lg,3,6,Weekday
+940,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:11:04.000Z,16,Afternoon,1,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,3.75,3.75,Weekday
+941,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:11:57.000Z,16,Afternoon,2,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,3,6,Weekday
+942,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:12:01.000Z,16,Afternoon,2,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,6,Weekday
+943,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:14:09.000Z,16,Afternoon,1,5,Lower Manhattan,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,3,Weekday
+944,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:14:09.000Z,16,Afternoon,1,5,Lower Manhattan,78,Bakery,Scone,Scottish Cream Scone ,4.5,4.5,Weekday
+945,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:18:15.000Z,16,Afternoon,2,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,6,Weekday
+946,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:19:33.000Z,16,Afternoon,1,3,Astoria,38,Coffee,Barista Espresso,Latte,3.75,3.75,Weekday
+947,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:19:48.000Z,16,Afternoon,2,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,7.5,Weekday
+948,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:19:48.000Z,16,Afternoon,1,5,Lower Manhattan,78,Bakery,Scone,Scottish Cream Scone ,4.5,4.5,Weekday
+949,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:22:25.000Z,16,Afternoon,1,3,Astoria,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekday
+950,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:22:30.000Z,16,Afternoon,2,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,7,Weekday
+951,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:23:50.000Z,16,Afternoon,1,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,3,3,Weekday
+952,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:26:14.000Z,16,Afternoon,1,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,4,Weekday
+953,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:26:38.000Z,16,Afternoon,1,3,Astoria,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,2.2,Weekday
+954,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:26:38.000Z,16,Afternoon,1,3,Astoria,73,Bakery,Pastry,Almond Croissant,3.75,3.75,Weekday
+955,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:26:49.000Z,16,Afternoon,1,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,2.5,Weekday
+956,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:28:26.000Z,16,Afternoon,1,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,3.75,Weekday
+957,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:30:05.000Z,16,Afternoon,1,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekday
+958,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:30:07.000Z,16,Afternoon,1,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,3,Weekday
+959,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:30:07.000Z,16,Afternoon,1,3,Astoria,74,Bakery,Biscotti,Ginger Biscotti,3.5,3.5,Weekday
+960,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:30:37.000Z,16,Afternoon,2,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,6,Weekday
+961,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:31:20.000Z,16,Afternoon,2,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,7.5,Weekday
+962,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:31:48.000Z,16,Afternoon,1,8,Hell's Kitchen,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,2.5,Weekday
+963,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:32:14.000Z,16,Afternoon,2,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,5,Weekday
+964,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:32:25.000Z,16,Afternoon,2,5,Lower Manhattan,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,5,Weekday
+965,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:33:17.000Z,16,Afternoon,1,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,3.1,Weekday
+966,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:33:17.000Z,16,Afternoon,1,5,Lower Manhattan,75,Bakery,Pastry,Croissant,3.5,3.5,Weekday
+967,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:34:50.000Z,16,Afternoon,1,5,Lower Manhattan,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,2.5,Weekday
+968,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:35:22.000Z,16,Afternoon,1,3,Astoria,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,2.2,Weekday
+969,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:35:22.000Z,16,Afternoon,2,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,5,Weekday
+970,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:35:54.000Z,16,Afternoon,2,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,3,6,Weekday
+971,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:36:38.000Z,16,Afternoon,1,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,3,Weekday
+972,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:41:26.000Z,16,Afternoon,2,5,Lower Manhattan,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,4,Weekday
+973,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:42:11.000Z,16,Afternoon,2,3,Astoria,51,Tea,Brewed Black tea,Earl Grey Lg,3,6,Weekday
+974,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:42:33.000Z,16,Afternoon,1,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,2.45,Weekday
+975,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:42:33.000Z,16,Afternoon,1,5,Lower Manhattan,77,Bakery,Scone,Oatmeal Scone,3,3,Weekday
+976,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:43:04.000Z,16,Afternoon,2,3,Astoria,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,4.9,Weekday
+977,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:44:55.000Z,16,Afternoon,2,5,Lower Manhattan,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,6,Weekday
+978,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:47:01.000Z,16,Afternoon,1,3,Astoria,48,Tea,Brewed Black tea,English Breakfast Rg,2.5,2.5,Weekday
+979,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:49:41.000Z,16,Afternoon,1,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,3,3,Weekday
+980,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:50:14.000Z,16,Afternoon,1,8,Hell's Kitchen,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,2.2,Weekday
+981,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:51:09.000Z,16,Afternoon,2,3,Astoria,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,4.9,Weekday
+982,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:51:09.000Z,16,Afternoon,1,3,Astoria,72,Bakery,Scone,Ginger Scone,3.25,3.25,Weekday
+983,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:55:58.000Z,16,Afternoon,2,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,6,Weekday
+984,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:56:14.000Z,16,Afternoon,1,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,4.25,4.25,Weekday
+985,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T16:59:09.000Z,16,Afternoon,1,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,2.5,Weekday
+986,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T17:00:52.000Z,17,Evening,1,8,Hell's Kitchen,25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,2.2,Weekday
+987,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T17:02:06.000Z,17,Evening,1,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2.5,2.5,Weekday
+988,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T17:02:59.000Z,17,Evening,2,5,Lower Manhattan,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,5,Weekday
+989,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T17:02:59.000Z,17,Evening,1,5,Lower Manhattan,77,Bakery,Scone,Oatmeal Scone,3,3,Weekday
+990,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T17:04:56.000Z,17,Evening,1,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,3.75,Weekday
+991,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T17:10:24.000Z,17,Evening,2,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4,8,Weekday
+992,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T17:10:36.000Z,17,Evening,1,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,3.5,Weekday
+993,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T17:12:45.000Z,17,Evening,2,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,5,Weekday
+994,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T17:13:53.000Z,17,Evening,1,8,Hell's Kitchen,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,3,Weekday
+995,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T17:15:28.000Z,17,Evening,2,5,Lower Manhattan,27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,7,Weekday
+996,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T17:15:35.000Z,17,Evening,2,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,6.2,Weekday
+997,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T17:17:00.000Z,17,Evening,2,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,6,Weekday
+998,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T17:17:00.000Z,17,Evening,1,3,Astoria,70,Bakery,Scone,Cranberry Scone,3.25,3.25,Weekday
+999,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T17:18:25.000Z,17,Evening,2,5,Lower Manhattan,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,6,Weekday
+1000,2023-01-02,2023,1,Jan,2,Mon,2026-06-30T17:19:03.000Z,17,Evening,1,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,2.5,Weekday
