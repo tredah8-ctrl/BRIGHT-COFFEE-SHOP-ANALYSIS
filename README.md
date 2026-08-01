@@ -1,5 +1,7 @@
 # BRIGHT-COFFEE-SHOP-ANALYSIS
 
+https://brightcoffee-viz.lovable.app
+
 📌 Project Overview
 This project analyses the **Bright Coffee Shop Sales Dataset** to help the business understand its sales performance and identify opportunities to increase revenue. The analysis was completed using SQL for data preparation and Power BI for data visualization.
 The goal is to provide business insights that support better decision-making through interactive dashboards and data-driven recommendations.
